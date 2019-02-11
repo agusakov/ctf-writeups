@@ -12,7 +12,7 @@ void main()
     i%=23;
     string[count-1]=s[i];
   }
-   
+  
   printf("%s",string);
 }
 
