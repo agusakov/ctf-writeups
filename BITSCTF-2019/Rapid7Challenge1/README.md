@@ -9,4 +9,4 @@ Note: this challenge does not follow the flag format
 
 Solution:
 
-The way I solved this was by first decoding the hex, and then decoding the resultant base64. 
+The way I solved this was by first decoding the hex, and then decoding the resultant base64. That gave me the flag. 
